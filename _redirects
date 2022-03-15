@@ -1,2 +1,4 @@
 http://portal.frameworks.video/* https://invoice.zoho.com/portal/frameworksvideo/:splat 301!
 https://portal.frameworks.video/* https://invoice.zoho.com/portal/frameworksvideo/:splat 301!
+http://live.frameworks.video/* https://frameworks.ticketleap.com/:splat 301!
+https://live.frameworks.video/* https://frameworks.ticketleap.com/:splat 301!
