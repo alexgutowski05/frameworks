@@ -10,3 +10,16 @@ http://support.frameworks.video/myportal/* https://frameworksvideo.zohodesk.com/
 https://support.frameworks.video/myportal/* https://frameworksvideo.zohodesk.com/portal/en/myarea/:splat 301!
 http://support.frameworks.video/* https://frameworksvideo.zohodesk.com/:splat 301!
 https://support.frameworks.video/* https://frameworksvideo.zohodesk.com/:splat 301!
+
+http://portal.frameworksvideography.com/* https://invoice.zoho.com/portal/frameworksvideography1/:splat 301!
+https://portal.frameworksvideography.com/* https://invoice.zoho.com/portal/frameworksvideography1/:splat 301!
+http://live.frameworksvideography.com/* https://frameworks.ticketleap.com/:splat 301!
+https://live.frameworksvideography.com/* https://frameworks.ticketleap.com/:splat 301!
+http://youtube.frameworksvideography.com/* https://www.youtube.com/channel/UCRNzHZasqH1TYKLkUFT04Qg/:splat 301!
+https://youtube.frameworksvideography.com/* https://www.youtube.com/channel/UCRNzHZasqH1TYKLkUFT04Qg/:splat 301!
+http://support.frameworksvideography.com/signin/* https://frameworksvideo.zohodesk.com/portal/en/signin/:splat 301!
+https://support.frameworksvideography.com/signin/* https://frameworksvideo.zohodesk.com/portal/en/signin/:splat 301!
+http://support.frameworksvideography.com/myportal/* https://frameworksvideo.zohodesk.com/portal/en/myarea/:splat 301!
+https://support.frameworksvideography.com/myportal/* https://frameworksvideo.zohodesk.com/portal/en/myarea/:splat 301!
+http://support.frameworksvideography.com/* https://frameworksvideo.zohodesk.com/:splat 301!
+https://support.frameworksvideography.com/* https://frameworksvideo.zohodesk.com/:splat 301!
